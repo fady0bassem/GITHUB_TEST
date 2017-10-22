@@ -93,6 +93,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         mProgressView = findViewById(R.id.login_progress);
         
         int x = 1 + 5;
+        int res = x + 3;
     }
 
     private void populateAutoComplete() {
