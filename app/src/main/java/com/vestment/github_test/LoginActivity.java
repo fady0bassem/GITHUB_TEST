@@ -94,6 +94,7 @@ public class LoginActivity extends AppCompatActivity implements LoaderCallbacks<
         
         int x = 1 + 5;
         int res = x + 3;
+        String s = "test";
     }
 
     private void populateAutoComplete() {
